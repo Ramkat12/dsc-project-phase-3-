@@ -15,7 +15,7 @@ Below are some CRISP-DM steps we followed in our analysis.
 Businesses in the healthcare industry can gain insights into the demographic, socioeconomic, and health-related factors that are associated with H1N1 vaccine uptake. This information can be used to develop targeted marketing campaigns and vaccination programs that are more effective in reaching and persuading specific groups of people to get vaccinated. As the world struggles to vaccinate the global population against COVID-19, an understanding of how people’s backgrounds, opinions, and health behaviors are related to their personal vaccination patterns can provide guidance for future public health efforts. We aim to predict whether people got H1N1 vaccines using data collected in the National 2009 H1N1 Flu Survey.
 # 2.)Data understanding
  The dataset was collected to study the prevalence and determinants of the H1N1 and seasonal flu vaccinations among the US population. 
-  The data description (column names) are also found in https://www.drivendata.org/competitions/66/flu-shot-learning/
+  The data description (column names) are also found in [Kaggle Dataset Description](https://www.drivendata.org/competitions/66/flu-shot-learning/)
 # 3.) Data Exploration
 We are  just exploring and trying to understand our data.<br>
 This includes :
@@ -23,6 +23,7 @@ This includes :
 ![download](https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas/assets/109750154/cde1e1e5-18cb-450f-b319-d3ba6e7bf901)
 **ii)Exploratory data analysis**
 Here, we are trying to see see how our columns behave for example checking how various variables affect **H1n1 Vaccine**</br>
+** Note this was mostly done in Tablue ,click  [Tablue link](https://public.tableau.com/app/profile/joy7082/viz/Phase3project/Dashboard1?publish=yes) to access.<br>
 **a) Age group**</br>
  </br>
 ![Sheet 1](https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas/assets/109750154/435b1634-873f-43f4-9cfe-dc4135269faa) </br>
